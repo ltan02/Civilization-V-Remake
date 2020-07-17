@@ -1,0 +1,1 @@
+Run the game on the Civilization_V.py file. All you have to do is run the code and the game will work. Make sure to put all of the files in the same folder. Don't change the canvas size or it may result in a bad gameplay.
